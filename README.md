@@ -6,9 +6,9 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| 更新日期 | 2026年9月4日 |
-| 自动同步时间 | 2026年9月4日 00:00 |
-| 当天文章 | https://free.yunxiang.lol/posts/nodes/2026-09-04 |
+| 更新日期 | 2026年9月5日 |
+| 自动同步时间 | 2026年9月5日 00:00 |
+| 当天文章 | https://free.yunxiang.lol/posts/nodes/2026-09-05 |
 | 订阅格式 | XBoard 通用订阅 |
 | 适配客户端 | Clash Verge Rev / Mihomo / v2rayN / v2rayNG / Shadowrocket / OpenClash |
 | 主要地区 | 香港、日本、新加坡、美国 |
@@ -19,14 +19,14 @@
 ### 当天文章链接
 
 ```text
-https://free.yunxiang.lol/posts/nodes/2026-09-04
+https://free.yunxiang.lol/posts/nodes/2026-09-05
 ```
 
 请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。把协议说明、订阅格式和当天入口放在站内正文，便于持续修订。
 
 ## 快速入口
 
-- 今日免费节点文章：https://free.yunxiang.lol/posts/nodes/2026-09-04
+- 今日免费节点文章：https://free.yunxiang.lol/posts/nodes/2026-09-05
 - 常见问题文档：https://free.yunxiang.lol/docs
 - 订阅导入教程：https://free.yunxiang.lol/docs/start/import-subscription
 - 订阅格式检测工具：https://free.yunxiang.lol/tools/subscription-format-checker
@@ -38,12 +38,12 @@ https://free.yunxiang.lol/posts/nodes/2026-09-04
 
 - 面向场景：V2Ray / Xray 通用订阅和协议格式阅读入口
 - 推荐读者：使用 v2rayN、v2rayNG、Xray 内核或需要理解协议格式的读者
-- 内容重点：V2Ray 订阅、VMess / VLESS / Trojan / SS 格式和客户端兼容性；2026年9月4日更新；香港、日本、新加坡、美国 等地区；100 Mbps 公共限速
+- 内容重点：V2Ray 订阅、VMess / VLESS / Trojan / SS 格式和客户端兼容性；2026年9月5日更新；香港、日本、新加坡、美国 等地区；100 Mbps 公共限速
 - 固定入口：https://free.yunxiang.lol/
 
 ## 今日导入路径
 
-1. 打开今日文章，确认日期是 2026年9月4日，再获取正文里的免费订阅入口。
+1. 打开今日文章，确认日期是 2026年9月5日，再获取正文里的免费订阅入口。
 2. 先确认订阅格式，再按站内 V2Ray 导入说明添加或刷新节点列表；如果客户端没有弹出，就复制文章里的地址后手动新增订阅。
 3. 导入后先更新订阅并测速，优先选择延迟稳定的 香港、日本、新加坡、美国 节点。
 4. 如果列表为空或格式不识别，回到站内导入教程、格式检测工具和排错页定位问题。
